@@ -1,0 +1,38 @@
+
+10 -> 00
+
+is
+
+appearance(1, 2)
+
+thus, mu = 10
+tau = 01
+e = 00
+
+
+WE HAVE:
+
+1. update pytrino, upload package and document it well
+
+1. two flavor oscillations on a quantum circuit
+2. three flavor vacuum oscillations on a quantum circuit
+3. three flavor matter oscillations on a quantum circuit
+
+
+future scope:
+
+pytrino:
+
+1. extend to antineutrino oscillations
+2. accelerate using numba/cython - implement in other languages
+4. implement all algos efficiently and time them
+5. extend pytrino to (3+1) and n neutrinos
+6. extend qc to (3+1) and n neutrinos
+7. optimize implementations, especially Identities
+8. possibly remove numpy dependency over time?
+9. implement in other languages (cpp)
+
+quantrino:
+
+
+MISTAKE IN ROSETTA STONE PAPER
